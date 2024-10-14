@@ -1,0 +1,16 @@
+﻿1.  sentence-transformers
+2.  mlflow
+3.  openai==0.28
+4.  fastapi
+5.  streamlit
+6.  pyngrok
+7.  Transformers
+8. ngrok
+9. PyMuPDF  # For PDF processing
+10. T5ForConditionalGeneration, T5Tokenizer
+11. mlflow
+12. mlflow.sklearn
+13. joblib
+14. spacy
+15. pandas 
+16. sklearn
